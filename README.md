@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="índice"><strong>Índice</strong></h1>
+<h1 id="índice"><strong>0. Índice</strong></h1>
 <ul>
 <li>Mostrar los temas principales del documento:
 <ol>
