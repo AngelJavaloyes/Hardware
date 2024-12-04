@@ -4,7 +4,7 @@
 ---
 
 <h1 id="protección-del-medio-ambiente"><strong>Protección del medio ambiente</strong></h1>
-<h2 id="por-ángel-javaloyes-espejo"><strong>Por Ángel Javaloyes Espejo</strong></h2>
+<h2 id="por-ángel-javaloyes-espejo-y-estanislao-pérez-moya"><strong>Por Ángel Javaloyes Espejo y Estanislao Pérez Moya</strong></h2>
 <h1 id="índice"><strong>0. Índice</strong></h1>
 <ul>
 <li>Mostrar los temas principales del documento:
