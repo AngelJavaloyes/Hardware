@@ -109,31 +109,236 @@ Promueven la creación de infraestructura para el tratamiento de residuos, como 
 <li>La sensibilización sobre estas leyes es clave para garantizar su cumplimiento y para proteger el medio ambiente a largo plazo.</li>
 </ul>
 <h1 id="sustancias-contaminantes"><strong>3. Sustancias Contaminantes</strong></h1>
+<p>Los equipos electrónicos, como los ordenadores, contienen múltiples componentes y sustancias que pueden ser altamente dañinas para el medio ambiente y la salud si no se gestionan adecuadamente al final de su vida útil.</p>
+<h3 id="principales-sustancias-contaminantes"><strong>Principales Sustancias Contaminantes</strong></h3>
+<ol>
+<li>
+<p><strong>Metales Pesados</strong></p>
 <ul>
-<li>Crear una diapositiva sobre los componentes peligrosos (metales pesados, tóneres, etc.).</li>
-<li>Incorporar imágenes para destacar el impacto negativo en el medio ambiente.</li>
+<li><strong>Plomo:</strong><br>
+Usado en soldaduras y en tubos de rayos catódicos (CRT). Puede contaminar el suelo y el agua, causando graves daños al sistema nervioso humano y a los ecosistemas.
+<ul>
+<li>Ejemplo: Un monitor CRT puede contener hasta 2 kg de plomo.</li>
+</ul>
+</li>
+<li><strong>Mercurio:</strong><br>
+Presente en pantallas LCD y lámparas fluorescentes. Es extremadamente tóxico, acumulándose en organismos vivos a través de la cadena alimentaria (bioacumulación).</li>
+<li><strong>Cadmio:</strong><br>
+Encontrado en baterías y placas de circuitos. Puede filtrarse en el agua subterránea, provocando daños renales y enfermedades óseas.</li>
+<li><strong>Arsénico:</strong><br>
+Usado en algunos componentes de circuitos antiguos. Su toxicidad es bien conocida y puede ser letal en grandes cantidades.</li>
+</ul>
+</li>
+<li>
+<p><strong>Plásticos y Compuestos Orgánicos</strong></p>
+<ul>
+<li><strong>PVC (Cloruro de Polivinilo):</strong><br>
+Usado en revestimientos de cables. Al quemarse, libera dioxinas, compuestos altamente tóxicos que afectan la salud humana y la atmósfera.</li>
+<li><strong>Retardantes de Llama Bromados (BFRs):</strong><br>
+Presentes en carcasas de plástico y placas base. Estos compuestos son persistentes en el medio ambiente y pueden interferir con sistemas hormonales humanos y animales.</li>
+</ul>
+</li>
+<li>
+<p><strong>Componentes Químicos de Consumibles</strong></p>
+<ul>
+<li><strong>Tóner y Tinta de Impresoras:</strong><br>
+Los tóners contienen polvo fino que, si se inhala, puede causar problemas respiratorios. Además, algunos de sus componentes son cancerígenos.</li>
+<li><strong>Baterías de Litio y Níquel-Cadmio:</strong><br>
+Su mala gestión libera metales tóxicos al medio ambiente, dañando el suelo y el agua.</li>
+</ul>
+</li>
+</ol>
+<h4 id="impactos-ambientales-y-sanitarios"><strong>Impactos Ambientales y Sanitarios</strong></h4>
+<ul>
+<li><strong>Contaminación del Suelo:</strong><br>
+Cuando estos componentes son depositados en vertederos comunes, liberan sustancias tóxicas que contaminan el suelo y las aguas subterráneas.</li>
+<li><strong>Aire Contaminado:</strong><br>
+La incineración de componentes electrónicos libera gases tóxicos como dioxinas y furanos.</li>
+<li><strong>Efectos en la Salud Humana:</strong><br>
+La exposición prolongada a metales pesados y compuestos químicos puede causar problemas como enfermedades neurológicas, respiratorias y cáncer.</li>
+</ul>
+<h4 id="soluciones-y-prevención"><strong>Soluciones y Prevención</strong></h4>
+<ul>
+<li><strong>Gestión Responsable:</strong><br>
+Los residuos electrónicos deben ser tratados en plantas de reciclaje especializadas, donde se separan las sustancias tóxicas para evitar su liberación.</li>
+<li><strong>Alternativas Sostenibles:</strong>
+<ul>
+<li>Comprar dispositivos que cumplan con la <strong>Directiva RoHS</strong> (Restricción de Sustancias Peligrosas), que limita el uso de ciertos metales pesados y retardantes de llama.</li>
+<li>Preferir equipos certificados con sellos ecológicos como Energy Star.</li>
+</ul>
+</li>
 </ul>
 <h1 id="buenas-prácticas-ambientales"><strong>4. Buenas Prácticas Ambientales</strong></h1>
+<p>El uso responsable de los recursos tecnológicos puede minimizar significativamente el impacto ambiental de la informática. Estas normas o prácticas son fáciles de implementar tanto a nivel personal como empresarial.</p>
+<h3 id="normas-básicas-para-reducir-el-impacto-ambiental"><strong>Normas Básicas para Reducir el Impacto Ambiental</strong></h3>
+<ol>
+<li>
+<p><strong>Reducir el Número de Equipos Utilizados:</strong></p>
 <ul>
-<li>Listar normas para reducir el impacto ambiental:
+<li><strong>Por qué:</strong> La fabricación de dispositivos consume recursos naturales y genera residuos contaminantes.</li>
+<li><strong>Cómo hacerlo:</strong>
 <ul>
-<li>Uso eficiente de equipos.</li>
-<li>Optimización del software.</li>
-<li>Desconexión de periféricos.</li>
+<li>Optar por la virtualización (usar varios sistemas operativos en un mismo hardware).</li>
+<li>Compartir equipos entre usuarios o departamentos.</li>
 </ul>
 </li>
-<li>Añadir ejemplos visuales (e.g., un logo de Energy Star).</li>
+</ul>
+</li>
+<li>
+<p><strong>Apagar Equipos No Utilizados:</strong></p>
+<ul>
+<li><strong>Por qué:</strong> Los dispositivos electrónicos en modo de espera (stand-by) siguen consumiendo energía.</li>
+<li><strong>Cómo hacerlo:</strong>
+<ul>
+<li>Implementar políticas de apagado obligatorio al final del día laboral.</li>
+<li>Usar regletas con interruptores para desconectar varios equipos fácilmente.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Optimizar el Software y Hardware:</strong></p>
+<ul>
+<li><strong>Por qué:</strong> Equipos más eficientes trabajan menos tiempo y consumen menos energía.</li>
+<li><strong>Cómo hacerlo:</strong>
+<ul>
+<li>Desinstalar programas innecesarios para liberar recursos.</li>
+<li>Actualizar hardware clave en lugar de reemplazar equipos completos.</li>
+<li>Mantener el software al día para garantizar eficiencia.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Utilizar Técnicas de Ahorro de Energía:</strong></p>
+<ul>
+<li><strong>Por qué:</strong> Los dispositivos de bajo consumo y las configuraciones adecuadas reducen el impacto ambiental.</li>
+<li><strong>Cómo hacerlo:</strong>
+<ul>
+<li>Configurar monitores para apagarse automáticamente tras un período de inactividad.</li>
+<li>Usar equipos certificados con sellos como <strong>Energy Star</strong>.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Desconectar Periféricos:</strong></p>
+<ul>
+<li><strong>Por qué:</strong> Impresoras, escáneres y otros periféricos en modo inactivo también consumen energía.</li>
+<li><strong>Cómo hacerlo:</strong>
+<ul>
+<li>Desconectarlos al final del uso o jornada laboral.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Comprar Equipos de Bajo Consumo:</strong></p>
+<ul>
+<li><strong>Por qué:</strong> Equipos más eficientes consumen menos energía a lo largo de su vida útil.</li>
+<li><strong>Cómo hacerlo:</strong>
+<ul>
+<li>Optar por dispositivos con etiquetas ecológicas o fabricados bajo estándares como la <strong>Directiva RoHS</strong>, que restringe sustancias peligrosas.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<h3 id="ventajas-de-las-buenas-prácticas"><strong>Ventajas de las Buenas Prácticas</strong></h3>
+<ul>
+<li><strong>Ahorro Energético:</strong><br>
+Reducir el consumo de electricidad genera menos emisiones de gases de efecto invernadero.</li>
+<li><strong>Menos Residuos:</strong><br>
+Al extender la vida útil de los equipos, se genera menos basura electrónica.</li>
+<li><strong>Beneficios Económicos:</strong><br>
+Menor consumo eléctrico y reutilización de componentes resultan en ahorros significativos.</li>
+</ul>
+<h3 id="ejemplo-de-implementación-empresarial"><strong>Ejemplo de Implementación Empresarial</strong></h3>
+<p>Una empresa de tecnología puede reducir su impacto ambiental:</p>
+<ul>
+<li><strong>Estrategia:</strong> Implementar servidores virtualizados para reducir el número de dispositivos físicos necesarios.</li>
+<li><strong>Resultados:</strong> Reducción de costos operativos, consumo eléctrico y generación de residuos.</li>
 </ul>
 <h1 id="reciclado"><strong>5.  Reciclado</strong></h1>
+<p>El reciclaje adecuado de equipos informáticos es fundamental para reducir el impacto ambiental de la informática. Los componentes de los dispositivos contienen materiales valiosos y sustancias peligrosas que requieren un tratamiento especializado para su correcta reutilización o eliminación.</p>
+<h3 id="beneficios-del-reciclaje"><strong>Beneficios del Reciclaje</strong></h3>
+<ol>
+<li>
+<p><strong>Reducción de Contaminantes:</strong></p>
 <ul>
-<li>Crear subtemas sobre reciclaje:
-<ul>
-<li>Consumibles (tóner, CD/DVD, pilas).</li>
-<li>Equipamiento (CRT, ordenadores).</li>
-<li>Beneficios del reciclaje y ejemplos prácticos.</li>
-<li>Reutilización en países subdesarrollados.</li>
+<li>Minimiza la liberación de metales pesados y compuestos tóxicos al medio ambiente.</li>
+<li>Previene la contaminación del suelo y del agua.</li>
 </ul>
 </li>
+<li>
+<p><strong>Reutilización de Materiales:</strong></p>
+<ul>
+<li>Los materiales recuperados (como plásticos, metales y vidrios) pueden reutilizarse en la fabricación de nuevos productos.</li>
+<li>Ejemplo: El 97% de los componentes de un ordenador son reciclables.</li>
+</ul>
+</li>
+<li>
+<p><strong>Ahorro de Recursos Naturales:</strong></p>
+<ul>
+<li>Disminuye la necesidad de extraer materias primas, reduciendo el impacto en el ecosistema.</li>
+</ul>
+</li>
+<li>
+<p><strong>Beneficios Económicos:</strong></p>
+<ul>
+<li>Usar consumibles reciclados, como cartuchos de tinta compatibles, puede ahorrar hasta un 90%.</li>
+</ul>
+</li>
+</ol>
+<h3 id="tipos-de-reciclaje-en-informática"><strong>Tipos de Reciclaje en Informática</strong></h3>
+<ol>
+<li><strong>Reciclado de Consumibles:</strong>
+<ul>
+<li><strong>Tóneres y Cartuchos de Tinta:</strong><br>
+Contienen materiales peligrosos como polvo cancerígeno y plásticos de larga duración. Su reciclaje no solo reduce la contaminación, sino que también genera ahorros significativos al reutilizar los cartuchos.</li>
+<li><strong>Soportes Ópticos (CDs, DVDs, BluRays):</strong><br>
+Están hechos de policarbonato, que puede reciclarse y transformarse en nueva materia prima.</li>
+<li><strong>Baterías y Pilas:</strong><br>
+Altamente contaminantes debido a metales pesados como plomo y mercurio. Deben depositarse en contenedores específicos para su correcto tratamiento.</li>
+</ul>
+</li>
+<li><strong>Reciclado de Equipos:</strong>
+<ul>
+<li><strong>Monitores CRT:</strong><br>
+Contienen grandes cantidades de plomo en sus tubos de rayos catódicos. Estos deben ser desmontados y tratados en plantas especializadas.</li>
+<li><strong>Ordenadores:</strong><br>
+El 97% de sus componentes pueden reciclarse, desde placas base hasta cables y carcasas plásticas.</li>
+</ul>
+</li>
+<li><strong>Reutilización en Países en Desarrollo:</strong>
+<ul>
+<li>Equipos funcionales pero obsoletos en países avanzados pueden enviarse a escuelas y comunidades en países con menor acceso tecnológico, promoviendo la educación y el desarrollo.</li>
+<li><strong>Condición Importante:</strong> No deben enviarse equipos dañados o considerados basura tecnológica.</li>
+</ul>
+</li>
+</ol>
+<h3 id="pasos-para-reciclar-correctamente"><strong>Pasos para Reciclar Correctamente</strong></h3>
+<ol>
+<li><strong>Identificar los Puntos de Reciclaje:</strong>
+<ul>
+<li>Llevar los equipos a un <strong>punto limpio</strong> o al establecimiento donde fueron adquiridos.</li>
+</ul>
+</li>
+<li><strong>Clasificar los Residuos:</strong>
+<ul>
+<li>Separar consumibles (tóneres, pilas) de equipos mayores (ordenadores, monitores).</li>
+</ul>
+</li>
+<li><strong>Evitar el Almacenamiento Innecesario:</strong>
+<ul>
+<li>Evitar acumular dispositivos electrónicos sin uso, ya que eventualmente se degradan y se vuelven más difíciles de tratar.</li>
+</ul>
+</li>
+</ol>
+<h3 id="retos-del-reciclaje"><strong>Retos del Reciclaje</strong></h3>
+<ul>
+<li><strong>Infraestructura Limitada:</strong> En algunos lugares, los puntos limpios pueden ser insuficientes o de difícil acceso.</li>
+<li><strong>Falta de Conciencia:</strong> Muchas personas desconocen las opciones disponibles para el reciclaje de equipos electrónicos.</li>
 </ul>
 <h1 id="conclusión"><strong>6. Conclusión</strong></h1>
 <ul>
