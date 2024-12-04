@@ -341,8 +341,38 @@ El 97% de sus componentes pueden reciclarse, desde placas base hasta cables y ca
 <li><strong>Falta de Conciencia:</strong> Muchas personas desconocen las opciones disponibles para el reciclaje de equipos electrónicos.</li>
 </ul>
 <h1 id="conclusión"><strong>6. Conclusión</strong></h1>
+<p>La protección del medio ambiente en el ámbito de la informática es una responsabilidad compartida que involucra a usuarios, empresas y administraciones. Si bien los avances tecnológicos han traído grandes beneficios, como la reducción del uso de papel y la eficiencia energética, también han generado desafíos significativos en la gestión de residuos electrónicos y la contaminación ambiental.</p>
+<h3 id="puntos-clave"><strong>Puntos Clave</strong></h3>
+<ol>
+<li>
+<p><strong>Impacto Ambiental:</strong><br>
+Los equipos informáticos contienen materiales peligrosos que, si no se gestionan correctamente, pueden dañar gravemente el medio ambiente y la salud humana.</p>
+</li>
+<li>
+<p><strong>Normativa Vigente:</strong><br>
+La legislación, como la <strong>Ley 7/2007 en Andalucía</strong>, establece un marco claro para la gestión y reciclaje de residuos electrónicos, pero su éxito depende de su correcta implementación y del compromiso de todos los actores.</p>
+</li>
+<li>
+<p><strong>Buenas Prácticas:</strong><br>
+Pequeñas acciones como apagar dispositivos no utilizados, reciclar consumibles y adquirir equipos de bajo consumo tienen un gran impacto en la sostenibilidad.</p>
+</li>
+<li>
+<p><strong>Reciclaje Responsable:</strong><br>
+El reciclaje de equipos y consumibles permite reutilizar materiales valiosos, ahorrar recursos y reducir la contaminación. Además, la reutilización de dispositivos en países en desarrollo fomenta la inclusión digital.</p>
+</li>
+</ol>
+<h3 id="llamado-a-la-acción"><strong>Llamado a la Acción</strong></h3>
 <ul>
-<li>Reflexionar sobre cómo los pequeños cambios individuales pueden marcar la diferencia.</li>
-<li>Incluir un llamado a la acción: reciclar, reutilizar, optimizar.</li>
+<li>Como usuarios, podemos marcar la diferencia:
+<ul>
+<li><strong>Reduce:</strong> Compra solo lo necesario y optimiza el uso de tus dispositivos.</li>
+<li><strong>Reutiliza:</strong> Alarga la vida útil de tus equipos mediante reparaciones y actualizaciones.</li>
+<li><strong>Recicla:</strong> Lleva tus dispositivos a puntos limpios o programas de reciclaje adecuados.</li>
 </ul>
+</li>
+<li><strong>Empresas y Administraciones:</strong><br>
+Deben fomentar la economía circular mediante el diseño de equipos sostenibles, la recolección de dispositivos usados y la educación ambiental.</li>
+</ul>
+<h3 id="reflexión-final"><strong>Reflexión Final</strong></h3>
+<p>La tecnología es una herramienta poderosa para el progreso, pero su uso debe ser consciente y responsable. Solo trabajando juntos podemos minimizar el impacto ambiental de la informática y construir un futuro más sostenible. Cada acción, por pequeña que sea, cuenta.</p>
 
